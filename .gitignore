@@ -1,0 +1,24 @@
+#OS / Editors
+*.swp
+*.swo
+*.swn
+.viminfo
+.DS_Store
+
+# Kubernetes / Cache /Docker
+.kube/
+.cache/
+.docker/
+# Secrets
+.env
+*.pem
+*.key
+.bash_history
+.shh/
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+.viminfo
+
+
