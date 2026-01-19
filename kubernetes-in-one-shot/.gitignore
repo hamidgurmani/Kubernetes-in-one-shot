@@ -1,0 +1,11 @@
+# System / editor
+.vim/
+.viminfo
+.ssh/
+.kube/
+
+# OS junk
+*.swp
+*.swo
+*.log
+
