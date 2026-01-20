@@ -9,3 +9,18 @@
 *.swo
 *.log
 
+# Sensitive & system files
+.ssh/
+.vim/
+.viminfo
+.kube/
+.env
+
+# Editor temp files
+*.swp
+*.swo
+*.tmp
+
+# Submodules / unrelated projects
+django-notes-app/
+
